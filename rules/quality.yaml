@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,alive.github.com
   - DOMAIN-SUFFIX,v0.dev
   - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN-SUFFIX,newapi.aliyahzombie.top
   ###################################OpenAI###################################
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,browser-intake-datadoghq.com
