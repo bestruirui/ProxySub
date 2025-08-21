@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,pilipiliultra.com
   - DOMAIN-SUFFIX,newapi.aliyahzombie.top
   - DOMAIN-SUFFIX,freeonlyinlinuxdo.alencryenfo.work
+  - DOMAIN-SUFFIX,api.ibs-gss.top
   ###################################OpenAI###################################
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,browser-intake-datadoghq.com
