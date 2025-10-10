@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,alive.github.com
   - DOMAIN-SUFFIX,v0.dev
