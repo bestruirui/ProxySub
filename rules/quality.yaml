@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,newapi.aliyahzombie.top
   - DOMAIN-SUFFIX,freeonlyinlinuxdo.alencryenfo.work
   - DOMAIN-SUFFIX,api.ibs-gss.top
+  - DOMAIN-SUFFIX,anyrouter.top
   ###################################OpenAI###################################
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,browser-intake-datadoghq.com
