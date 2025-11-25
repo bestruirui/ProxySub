@@ -17,6 +17,11 @@ payload:
   - DOMAIN-SUFFIX,freeonlyinlinuxdo.alencryenfo.work
   - DOMAIN-SUFFIX,api.ibs-gss.top
   - DOMAIN-SUFFIX,anyrouter.top
+  - DOMAIN,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,lh3.googleusercontent.com
+  - DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+  - DOMAIN-SUFFIX,us-central1.run.app
   ###################################OpenAI###################################
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,browser-intake-datadoghq.com
